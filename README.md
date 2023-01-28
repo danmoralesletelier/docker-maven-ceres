@@ -3,7 +3,7 @@ Implementa Docker Multistage con aplicación maven-ceres
 
 Pasos para generar la imagen y probarla
 
-1. Clonar repositorio
+# 1. Clonar repositorio
 
 $ git clone https://github.com/emunozmejias/multistage-dockerfile.git
 
